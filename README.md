@@ -2,4 +2,4 @@
 
 The project looks like:
 
-<img src="./flipcoin.gif" alt="flipcoin" width="400" height="800" />
+<img src="./flipcoin.gif" alt="flipcoin" width="200" height="400" />
